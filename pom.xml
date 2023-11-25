@@ -34,7 +34,7 @@
         <revision>2.0.0</revision>
         <java.version>17</java.version>
         <mapstruct.version>1.5.5.Final</mapstruct.version>
-        <lombok.version>1.18.28</lombok.version>
+        <lombok.version>1.18.30</lombok.version>
         <aspectj.version>1.9.19</aspectj.version>
         <hutool-all.version>5.8.20</hutool-all.version>
         <maven.plugin.version>3.11.0</maven.plugin.version>
